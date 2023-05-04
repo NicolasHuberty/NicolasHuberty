@@ -5,7 +5,6 @@
 <div class="text-center">
   <div style="display: inline-flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=transparent" alt="Top languages" width="400"/>
-    <>(<img src="https://github-readme-stats.vercel.app/api?username=NicolasHuberty&show_icons=true&theme=transparent" alt="GitHub stats" width="530"/>)
   </div>
 </div>
 
