@@ -2,9 +2,11 @@
 <h1 align="center">Hey there !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### 🔥 &nbsp; My Stats :
-<div style="display: flex; justify-content: space-between; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=transparent" alt="Top languages" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasHuberty&show_icons=true&theme=transparent" alt="GitHub stats" width="530"/>
+<div class="text-center">
+  <div style="display: inline-flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=transparent" alt="Top languages" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NicolasHuberty&show_icons=true&theme=transparent" alt="GitHub stats" width="530"/>
+  </div>
 </div>
 
 ---
