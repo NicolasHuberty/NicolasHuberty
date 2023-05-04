@@ -1,8 +1,10 @@
 
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=transparent)](https://github.com/NicolasHuberty/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasHuberty&show_icons=true&theme=transparent)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=transparent" alt="Top languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasHuberty&show_icons=true&theme=transparent" alt="GitHub stats" width="400"/>
+</div>
 
 ---
 <p align="center">
