@@ -4,7 +4,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=vision-friendly-dark)](https://github.com/NicolasHuberty/github-readme-stats)
 
 ---
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicolas-huberty-a1068723b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
