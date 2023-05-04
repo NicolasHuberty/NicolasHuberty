@@ -45,7 +45,8 @@ I am a Software Engineer in Computer System Security & Artificial Intelligence <
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
     <a href="https://www.linkedin.com/in/nicolas-huberty-a1068723b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    
+  </a>
+  <a>
     <img src="https://komarev.com/ghpvc/?username=NicolasHuberty&style=flat-square&color=blue" alt="">
   </a>
 </div>
