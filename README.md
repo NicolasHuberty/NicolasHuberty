@@ -42,7 +42,7 @@ I am a Software Engineer in Computer System Security & Artificial Intelligence <
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div style="center;">
     <a href="https://www.linkedin.com/in/nicolas-huberty-a1068723b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
