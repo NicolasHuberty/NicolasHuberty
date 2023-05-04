@@ -1,5 +1,5 @@
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### 🔥 &nbsp; My Stats :
 <div style="display: flex; justify-content: space-between; margin: 0 auto;">
@@ -7,18 +7,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasHuberty&show_icons=true&theme=transparent" alt="GitHub stats" width="530"/>
 </div>
 
-
 ---
-
 
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Software Engineer in Computer System Security & Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-huberty-a1068723b)
+- 🔭 I’m working as a Software Engineer trying to link the Artificial Intelligence in the Computer System Security domain.
+- 🌱 Discovering models applications in the medical domain.
+- ⚡ In my free time I code a bot that retrieves Marketplace products to store them in a database to send signals messages about prices.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-NicolasHuberty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-huberty-a1068723b)
 
 ---
 
