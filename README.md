@@ -1,8 +1,8 @@
 
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=vision-friendly-dark)](https://github.com/NicolasHuberty/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHuberty&layout=compact&theme=transparent)](https://github.com/NicolasHuberty/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasHuberty&show_icons=true&theme=transparent)
 
 ---
 <p align="center">
