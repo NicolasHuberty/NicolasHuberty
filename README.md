@@ -20,10 +20,11 @@ I am a Software Engineer in Computer System Security & Artificial Intelligence <
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-NicolasHuberty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-huberty-a1068723b)
 
 ---
-
+https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 ### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
